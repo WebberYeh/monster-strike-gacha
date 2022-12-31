@@ -11,7 +11,7 @@
 要使用此py檔之前，必須先進行以下設定
 
 * 主程式指定區塊之修改
-    1. BLOCK 1: 將playsound(r'C:\\Users\\gacha\\皮卡(丘).wav') 更改為"皮卡.wav"以及"丘.wav"檔案所在資料夾的完整路徑，詳細如下圖所示，注意 **`windows路徑中的"\"在python裡為"\\"`**，若不想要此程式有聲音，也可以選擇將BLOCK 1中逐行註解(加上#)。 
+    1. BLOCK 1: 將playsound(r'C:\\Users\\gacha\\皮卡(丘).wav') 更改為"皮卡.wav"以及"丘.wav"檔案所在資料夾的完整路徑，詳細如下圖所示，注意 **`windows路徑中的"\"在python裡為"\\"`**，  **`若不想要此程式有聲音，也可以選擇將BLOCK 1中逐行註解(加上#)`**。 
     ![df](docs/path.png)
 
 <br>
